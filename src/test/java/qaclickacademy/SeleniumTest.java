@@ -8,7 +8,7 @@ public class SeleniumTest
     public void browserAUtomation()
     {
       System.out.println("BrowserAutomation");
-        System.out.println("BrowserAutomation");
+        System.out.println("WebAutomation");
 
         
     }

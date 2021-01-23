@@ -6,10 +6,11 @@ public class SeleniumTest
 {
     @Test
     public void browserAUtomation()
-
     {
       System.out.println("BrowserAutomation");
-        System.out.println("WebAutomation");
+        System.out.println("BrowserAutomation");
+
+        
     }
 
     @Test
